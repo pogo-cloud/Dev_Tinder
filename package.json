@@ -1,0 +1,24 @@
+{
+  "name": "devtinder_backend",
+  "version": "1.0.0",
+  "description": "Building Backend architecture",
+  "main": "index.js",
+  "scripts": {
+    "dev":"nodemon src/app.js",
+    "start":"node src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Yes"
+  },
+  "keywords": [
+    "JavaScript",
+    "Node",
+    "Js"
+  ],
+  "author": "Deeptesh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
